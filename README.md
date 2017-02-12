@@ -13,6 +13,9 @@
 7. [Big Data University: TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
 8. [Kadenze: TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 9. [Berkeley: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+10.[Stanford: Convex Optimization](http://online.stanford.edu/course/convex-optimization-winter-2014)
+11.[Stanford: Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
+
 
 ### Mathematics
 
@@ -37,7 +40,7 @@
 
 1. [arxiv](https://arxiv.org/)
 2. [gitxiv](http://www.gitxiv.com/)
-3. [Hacker Dojo Deep Learning Study Papers](https://github.com/sayantansatpati/hdDeepLearningStudy)
+3. [Hacker Dojo Deep Learning Study Papers](https://github.com/mike-bowles/hdDeepLearningStudy)
 4. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 ### GitHub
@@ -55,6 +58,14 @@
 
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 2. [Deep Learning Book](http://www.deeplearningbook.org/)
+
+
+## Articles
+
+1. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
+2. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
+3. 
+
 
 
 
