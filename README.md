@@ -10,11 +10,11 @@
 4. [Stanford: NLP](http://web.stanford.edu/class/cs224n/)
 5. [Stanford: CNN](http://cs231n.github.io/), [Videos](https://archive.org/details/cs231n-CNNs)
 6. [Stanford: MMDS](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
-7. [Big Data University: TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
-8. [Kadenze: TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
-9. [Berkeley: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
-10. [Stanford: Convex Optimization](http://online.stanford.edu/course/convex-optimization-winter-2014)
-11. [Stanford: Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
+7. [Berkeley: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+8. [Stanford: Convex Optimization](http://online.stanford.edu/course/convex-optimization-winter-2014)
+9. [Stanford: Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
+10. [Big Data University: TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
+11. [Kadenze: TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 
 
 ### Mathematics
@@ -23,6 +23,7 @@
 2. [Khan Academy: Calculus](https://www.khanacademy.org/math/calculus-home)
 3. [MIT: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 4. [MIT: Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+5. [Harvard: Stat110](http://projects.iq.harvard.edu/stat110/youtube)
 
 ### Other Online Video Lectures:
 
