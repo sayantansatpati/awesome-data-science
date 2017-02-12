@@ -47,6 +47,8 @@
 1. [Stanford: cs231n](http://cs231n.github.io/)
 2. [Karpathy](http://karpathy.github.io/)
 3. [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+4. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+5. [TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 ### Tutorials
 1. [TensorFlow](https://www.tensorflow.org/tutorials/)
