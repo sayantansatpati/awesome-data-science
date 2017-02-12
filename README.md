@@ -47,9 +47,10 @@
 ### GitHub
 1. [Stanford: cs231n](http://cs231n.github.io/)
 2. [Karpathy](http://karpathy.github.io/)
-3. [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-4. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-5. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+3. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+4. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+5. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+6. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 ### Tutorials
 1. [TensorFlow](https://www.tensorflow.org/tutorials/)
@@ -67,6 +68,12 @@
 
 1. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
 2. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
+
+### Collection of Useful Resources
+
+1. [analyticsvidhya: 21 Deep Learning Videos (2016)](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
+2. [analyticsvidhya: Top YouTube Videos (2015)](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
+3. 
 
 
 
