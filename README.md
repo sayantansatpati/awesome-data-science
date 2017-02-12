@@ -13,8 +13,8 @@
 7. [Big Data University: TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
 8. [Kadenze: TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 9. [Berkeley: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
-10.[Stanford: Convex Optimization](http://online.stanford.edu/course/convex-optimization-winter-2014)
-11.[Stanford: Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
+10. [Stanford: Convex Optimization](http://online.stanford.edu/course/convex-optimization-winter-2014)
+11. [Stanford: Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
 
 ### Mathematics
