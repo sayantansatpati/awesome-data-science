@@ -15,6 +15,8 @@
 9. [Stanford: Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 10. [Big Data University: TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
 11. [Kadenze: TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
+12. [Udacity Nanodegree: AI](https://www.udacity.com/ai)
+13. [Udacity Nanodegree: Self Driving Car](https://www.udacity.com/drive)
 
 
 ### Mathematics
@@ -37,7 +39,7 @@
 
 ## Reading Materials
  
-### Papers
+### Research Papers
 
 1. [arxiv](https://arxiv.org/)
 2. [gitxiv](http://www.gitxiv.com/)
@@ -45,14 +47,16 @@
 4. [Hacker Dojo Deep Learning Study Papers](https://github.com/mike-bowles/hdDeepLearningStudy)
 5. [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 6. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+7. [The-9-Deep-Learning-Papers-You-Need-To-Know-About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 ### GitHub
 1. [Stanford: cs231n](http://cs231n.github.io/)
 2. [Karpathy](http://karpathy.github.io/)
-3. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-4. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-5. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-6. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+3. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+4. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+5. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+6. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+7. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 ### Tutorials
 1. [TensorFlow](https://www.tensorflow.org/tutorials/)
@@ -68,14 +72,24 @@
 
 ## Articles
 
+### Forward and Backpropagation
+
+1. [yes-you-should-understand-backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.6ipdwn1is)
+2. [Neural Network in Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+3. [Step By Step Backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
+
+### Misc
+
 1. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
 2. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
 
 ### Collection of Useful Resources
 
-1. [analyticsvidhya: 21 Deep Learning Videos (2016)](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
-2. [analyticsvidhya: Top YouTube Videos (2015)](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
-3. 
+1. **[Open Source Data Science Masters](http://datasciencemasters.org/)**
+2. [analyticsvidhya: 21 Deep Learning Videos (2016)](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
+3. [analyticsvidhya: Top YouTube Videos (2015)](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
+
 
 
 
