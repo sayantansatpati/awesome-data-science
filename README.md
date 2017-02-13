@@ -1,5 +1,5 @@
 # Data Science Resources
-*A curated list of freely available Data Science resources available online*
+*A curated list of Data Science resources available online*
 
 ### Table of Contents
 - **[Video Lectures](#video-lectures)**  
