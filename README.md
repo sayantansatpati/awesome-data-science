@@ -41,8 +41,10 @@
 
 1. [arxiv](https://arxiv.org/)
 2. [gitxiv](http://www.gitxiv.com/)
-3. [Hacker Dojo Deep Learning Study Papers](https://github.com/mike-bowles/hdDeepLearningStudy)
-4. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+3. [Deep Learning Reading List](http://deeplearning.net/reading-list/)
+4. [Hacker Dojo Deep Learning Study Papers](https://github.com/mike-bowles/hdDeepLearningStudy)
+5. [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+6. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 ### GitHub
 1. [Stanford: cs231n](http://cs231n.github.io/)
