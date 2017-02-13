@@ -107,7 +107,7 @@
 
 ### Collection of Useful Resources
 
-1. **[Open Source Data Science Masters](http://datasciencemasters.org/)**
+1. [Open Source Data Science Masters](http://datasciencemasters.org/)
 2. [analyticsvidhya: 21 Deep Learning Videos (2016)](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 3. [analyticsvidhya: Top YouTube Videos (2015)](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 4. [Free Python Books](http://pythonbooks.revolunet.com/)
