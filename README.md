@@ -69,14 +69,17 @@
 7. [The-9-Deep-Learning-Papers-You-Need-To-Know-About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 ### GitHub
-1. [Stanford: cs231n](http://cs231n.github.io/)
-2. [Karpathy](http://karpathy.github.io/)
+1. [top-10-data-science-github](http://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
+2. [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 3. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 4. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 5. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 6. [A-gallery-of-interesting-Jupyter-and-IPython-Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
 7. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-8. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+8. [Stanford: cs231n](http://cs231n.github.io/)
+9. [Adrej Karpathy](http://karpathy.github.io/)
+10. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+    
 
 ### Tutorials
 1. [TensorFlow](https://www.tensorflow.org/tutorials/)
