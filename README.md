@@ -96,6 +96,8 @@
 ### Online Books
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 2. [Deep Learning Book](http://www.deeplearningbook.org/)
+3. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+3. [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 ### Blogs
 1. [colah's blog](http://colah.github.io/)
