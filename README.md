@@ -81,6 +81,7 @@
 8. [Stanford: cs231n](http://cs231n.github.io/)
 9. [Adrej Karpathy](http://karpathy.github.io/)
 10. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+11. [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
     
 
 ### Tutorials
