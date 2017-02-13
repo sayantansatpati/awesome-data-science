@@ -37,6 +37,7 @@
 11. [Kadenze: TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 12. [Udacity Nanodegree: AI](https://www.udacity.com/ai)
 13. [Udacity Nanodegree: Self Driving Car](https://www.udacity.com/drive)
+14. [EDX: Berkeley X-Series Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm#courses)
 
 
 ### Mathematics
