@@ -2,12 +2,19 @@
 
 ### Table of Contents
 - **[Video Lectures](#video-lectures)**  
-    -[ML and DL MOOCs](#ml-and-dl-MOOCs)
-    -[Mathematics](#mathematics)
-    -[Other Online Video Lectures](#other-online-video-lectures)
+    - [ML and DL MOOCs](#ml-and-dl-MOOCs)
+    - [Mathematics](#mathematics)
+    - [Other Online Video Lectures](#other-online-video-lectures)
 - **[Reading Materials](#reading-materials)**
-
+    - [Research Papers](#research-papers)
+    - [GitHub](#gitHub)
+    - [Tutorials](#tutorials)
+    - [Notes](#notes)
+    - [Online Books](#online-books)
 - **[Articles](#articles)**
+    - [Forward and Backpropagation](#forward-and-backpropagation)
+    - [Collection of Useful Resources](#collection-of-useful-resources)
+    - [Misc](#misc)
 
 ## Video Lectures
 
@@ -89,16 +96,17 @@
 3. [Step By Step Backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 
-### Misc
-
-1. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
-2. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
-
 ### Collection of Useful Resources
 
 1. **[Open Source Data Science Masters](http://datasciencemasters.org/)**
 2. [analyticsvidhya: 21 Deep Learning Videos (2016)](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 3. [analyticsvidhya: Top YouTube Videos (2015)](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
+
+### Misc
+
+1. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
+2. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
+
 
 
 
