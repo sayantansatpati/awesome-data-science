@@ -108,8 +108,9 @@
 
 ### Quora
 
-1. [best machine learning blogs or resources available](https://www.quora.com/What-are-the-best-machine-learning-blogs-or-resources-available)
+1. [What-are-the-best-machine-learning-blogs-or-resources-available](https://www.quora.com/What-are-the-best-machine-learning-blogs-or-resources-available)
 2. [How-do-I-learn-machine-learning-1](https://www.quora.com/How-do-I-learn-machine-learning-1)
+3. [What-are-some-good-books-papers-for-learning-deep-learning](https://www.quora.com/What-are-some-good-books-papers-for-learning-deep-learning)
 
 ### Misc
 
