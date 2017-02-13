@@ -1,15 +1,17 @@
 # Data Science Resources
 
 ### Table of Contents
-**-[Video Lectures](#video-lectures)**  
+- **[Video Lectures](#video-lectures)**  
+    -[ML and DL MOOCs](#ml-and-dl-MOOCs)
+    -[Mathematics](#mathematics)
+    -[Other Online Video Lectures](#other-online-video-lectures)
+- **[Reading Materials](#reading-materials)**
 
-**-[Reading Materials](#reading-materials)**
-
-**-[Articles](#articles)**
+- **[Articles](#articles)**
 
 ## Video Lectures
 
-### Machine Learning / Deep Learning MOOCs
+### ML and DL MOOCs
 
 1. [Coursera: Andrew NG](https://www.coursera.org/learn/machine-learning)
 2. [Coursera: Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
@@ -34,7 +36,7 @@
 4. [MIT: Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 5. [Harvard: Stat110](http://projects.iq.harvard.edu/stat110/youtube)
 
-### Other Online Video Lectures:
+### Other Online Video Lectures
 
 1. [Stanford: cs231n Winter 2016 lectures](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
 2. [Bay Area Deep Learning School](http://www.bayareadlschool.org/)
