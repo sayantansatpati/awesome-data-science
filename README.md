@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - **[Video Lectures](#video-lectures)**  
-    - [ML and DL MOOCs](#ml-and-dl-MOOCs)
+    - [ML and DL MOOCs](#ml-and-dl-moocs)
     - [Mathematics](#mathematics)
     - [Other Online Video Lectures](#other-online-video-lectures)
 - **[Reading Materials](#reading-materials)**
