@@ -15,7 +15,7 @@
 - **[Articles](#articles)**
     - [Forward and Backpropagation](#forward-and-backpropagation)
     - [Collection of Useful Resources](#collection-of-useful-resources)
-    - [Quaora](#quora)
+    - [Quora](#quora)
     - [Misc](#misc)
 
 ## Video Lectures
