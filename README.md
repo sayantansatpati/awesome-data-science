@@ -11,6 +11,7 @@
     - [GitHub](#github)
     - [Tutorials](#tutorials)
     - [Notes](#notes)
+    - [Cheat Sheets](#cheat-sheets)
     - [Online Books](#online-books)
 - **[Articles](#articles)**
     - [Forward and Backpropagation](#forward-and-backpropagation)
@@ -82,6 +83,9 @@
 
 ### Notes
 1. [cs229: ML Course Materials](http://cs229.stanford.edu/materials.html)
+
+### Cheat Sheets
+1. [KDNuggets: data-science-machine-learning-cheat-sheets](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
 
 ### Online Books
 
