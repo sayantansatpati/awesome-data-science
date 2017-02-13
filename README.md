@@ -13,6 +13,7 @@
     - [Notes](#notes)
     - [Cheat Sheets](#cheat-sheets)
     - [Online Books](#online-books)
+    - [Blogs](#blogs)
 - **[Articles](#articles)**
     - [Forward and Backpropagation](#forward-and-backpropagation)
     - [Collection of Useful Resources](#collection-of-useful-resources)
@@ -91,10 +92,18 @@
 1. [KDNuggets: data-science-machine-learning-cheat-sheets](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
 
 ### Online Books
-
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 2. [Deep Learning Book](http://www.deeplearningbook.org/)
 
+### Blogs
+1. [colah's blog](http://colah.github.io/)
+2. [Medium](https://medium.com/)
+3. [KDNuggets](http://www.kdnuggets.com/)
+4. [datasciencecentral](http://www.datasciencecentral.com/)
+5. [machinelearningmastery](http://machinelearningmastery.com/blog/)
+6. [Edwin Chen's blog](http://blog.echen.me/)
+7. [Hunch](http://hunch.net/)
+8. [frequently-updated-machine-learning-blogs](http://bigdata-madesimple.com/frequently-updated-machine-learning-blogs/)
 
 ## Articles
 
@@ -112,6 +121,8 @@
 3. [analyticsvidhya: Top YouTube Videos (2015)](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 4. [Free Python Books](http://pythonbooks.revolunet.com/)
 5. [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
+6. [frequently-updated-machine-learning-blogs](http://bigdata-madesimple.com/frequently-updated-machine-learning-blogs/)
+
 
 ### Quora
 
@@ -121,8 +132,10 @@
 
 ### Misc
 
-1. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
-2. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
+1. [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+2. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
+3. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
+4. [Understanding-LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
 
