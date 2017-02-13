@@ -1,8 +1,10 @@
 # Data Science Resources
 
 ## Table of Contents
-**[Video Lectures](#Video Lectures)**  
-**[Reading Materials](#Reading Materials)**
+**[Video Lectures](#Video-Lectures)**  
+
+**[Reading Materials](#Reading-Materials)**
+
 **[Articles](#Articles)**
 
 ## Video Lectures
