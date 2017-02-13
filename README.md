@@ -1,4 +1,5 @@
 # Data Science Resources
+*A curated list of freely available Data Science resources available online*
 
 ### Table of Contents
 - **[Video Lectures](#video-lectures)**  
@@ -7,7 +8,7 @@
     - [Other Online Video Lectures](#other-online-video-lectures)
 - **[Reading Materials](#reading-materials)**
     - [Research Papers](#research-papers)
-    - [GitHub](#gitHub)
+    - [GitHub](#github)
     - [Tutorials](#tutorials)
     - [Notes](#notes)
     - [Online Books](#online-books)
