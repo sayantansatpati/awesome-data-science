@@ -55,8 +55,9 @@
 3. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 4. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 5. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-6. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-7. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+6. [A-gallery-of-interesting-Jupyter-and-IPython-Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
+7. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+8. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 ### Tutorials
 1. [TensorFlow](https://www.tensorflow.org/tutorials/)
