@@ -101,13 +101,14 @@
 
 ### Blogs
 1. [colah's blog](http://colah.github.io/)
-2. [Medium](https://medium.com/)
-3. [KDNuggets](http://www.kdnuggets.com/)
-4. [datasciencecentral](http://www.datasciencecentral.com/)
-5. [machinelearningmastery](http://machinelearningmastery.com/blog/)
-6. [Edwin Chen's blog](http://blog.echen.me/)
-7. [Hunch](http://hunch.net/)
-8. [frequently-updated-machine-learning-blogs](http://bigdata-madesimple.com/frequently-updated-machine-learning-blogs/)
+2. [iamtrask](https://iamtrask.github.io/)
+3. [Medium](https://medium.com/)
+4. [KDNuggets](http://www.kdnuggets.com/)
+5. [datasciencecentral](http://www.datasciencecentral.com/)
+6. [machinelearningmastery](http://machinelearningmastery.com/blog/)
+7. [Edwin Chen's blog](http://blog.echen.me/)
+8. [Hunch](http://hunch.net/)
+9. [frequently-updated-machine-learning-blogs](http://bigdata-madesimple.com/frequently-updated-machine-learning-blogs/)
 
 ## Articles
 
@@ -140,6 +141,7 @@
 2. [4 Steps for Learning Deep Learning](https://medium.com/@vzkuma/4-steps-for-learning-deep-learning-86f11fcee54#.gnfxqsk54)
 3. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
 4. [Understanding-LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+5. [anyone-can-code-lstm](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
 
 
