@@ -76,6 +76,7 @@
 3. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 4. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 5. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+6. [Awesome Artifical Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 6. [A-gallery-of-interesting-Jupyter-and-IPython-Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
 7. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 8. [Stanford: cs231n](http://cs231n.github.io/)
