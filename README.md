@@ -69,6 +69,7 @@
 5. [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 6. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 7. [The-9-Deep-Learning-Papers-You-Need-To-Know-About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+8. [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ### GitHub
 1. [top-10-data-science-github](http://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
@@ -77,12 +78,13 @@
 4. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 5. [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 6. [Awesome Artifical Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-6. [A-gallery-of-interesting-Jupyter-and-IPython-Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
-7. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-8. [Stanford: cs231n](http://cs231n.github.io/)
-9. [Adrej Karpathy](http://karpathy.github.io/)
-10. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
-11. [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+7. [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+8. [A-gallery-of-interesting-Jupyter-and-IPython-Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
+9. [Collection of Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+10. [Stanford: cs231n](http://cs231n.github.io/)
+11. [Adrej Karpathy](http://karpathy.github.io/)
+12. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+13. [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
     
 
 ### Tutorials
@@ -98,7 +100,8 @@
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 2. [Deep Learning Book](http://www.deeplearningbook.org/)
 3. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-3. [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
+4. [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
+5. [A Course in Machine Learning](http://ciml.info/)
 
 ### Blogs
 1. [colah's blog](http://colah.github.io/)
