@@ -113,6 +113,7 @@
 ### Misc Others
 1. [TensorFlow](https://www.tensorflow.org/tutorials/)
 2. [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+3. [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 ## Articles
 
