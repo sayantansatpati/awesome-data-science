@@ -9,11 +9,11 @@
 - **[Reading Materials](#reading-materials)**
     - [Research Papers](#research-papers)
     - [GitHub](#github)
-    - [Tutorials](#tutorials)
+    - [Blogs](#blogs)
+    - [Online Books](#online-books)
     - [Notes](#notes)
     - [Cheat Sheets](#cheat-sheets)
-    - [Online Books](#online-books)
-    - [Blogs](#blogs)
+    - [Misc Others](#misc-others)
 - **[Articles](#articles)**
     - [Forward and Backpropagation](#forward-and-backpropagation)
     - [Collection of Useful Resources](#collection-of-useful-resources)
@@ -85,23 +85,6 @@
 11. [Adrej Karpathy](http://karpathy.github.io/)
 12. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 13. [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-    
-
-### Tutorials
-1. [TensorFlow](https://www.tensorflow.org/tutorials/)
-
-### Notes
-1. [cs229: ML Course Materials](http://cs229.stanford.edu/materials.html)
-
-### Cheat Sheets
-1. [KDNuggets: data-science-machine-learning-cheat-sheets](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
-
-### Online Books
-1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-2. [Deep Learning Book](http://www.deeplearningbook.org/)
-3. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-4. [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
-5. [A Course in Machine Learning](http://ciml.info/)
 
 ### Blogs
 1. [colah's blog](http://colah.github.io/)
@@ -113,6 +96,23 @@
 7. [Edwin Chen's blog](http://blog.echen.me/)
 8. [Hunch](http://hunch.net/)
 9. [frequently-updated-machine-learning-blogs](http://bigdata-madesimple.com/frequently-updated-machine-learning-blogs/)
+
+### Online Books
+1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+2. [Deep Learning Book](http://www.deeplearningbook.org/)
+3. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+4. [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
+5. [A Course in Machine Learning](http://ciml.info/)
+    
+### Notes
+1. [cs229: ML Course Materials](http://cs229.stanford.edu/materials.html)
+
+### Cheat Sheets
+1. [KDNuggets: data-science-machine-learning-cheat-sheets](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
+
+### Misc Others
+1. [TensorFlow](https://www.tensorflow.org/tutorials/)
+2. [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 
 ## Articles
 
