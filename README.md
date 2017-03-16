@@ -27,7 +27,7 @@
 1. [Coursera: Andrew NG](https://www.coursera.org/learn/machine-learning)
 2. [Coursera: Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 3. [Caltech: Abu Mostafa](http://work.caltech.edu/telecourse.html)
-4. [Stanford: NLP cs224n](http://web.stanford.edu/class/cs224n/)
+4. [Stanford: NLP cs224n](http://web.stanford.edu/class/cs224n/), [Coursera Videos](https://www.youtube.com/watch?v=nfoudtpBV68&index=1&list=PL6397E4B26D00A269)
 5. [Stanford: CNN cs231n](http://cs231n.github.io/), [Videos](https://archive.org/details/cs231n-CNNs)
 6. [Stanford: MMDS](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 7. [Berkeley: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
