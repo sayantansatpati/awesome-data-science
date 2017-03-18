@@ -85,6 +85,7 @@
 11. [Adrej Karpathy](http://karpathy.github.io/)
 12. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 13. [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+14. [data-scientists-to-follow-best-tutorials](https://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 
 ### Blogs
 1. [colah's blog](http://colah.github.io/)
