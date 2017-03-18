@@ -130,6 +130,7 @@
 1. [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=iX5V1WpxxkY)
 2. [Christopher Olah on how LSTMs work](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 3. [RNN using TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
+4. [Andrej Karpathy's Blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
 ### Collection of Useful Resources
