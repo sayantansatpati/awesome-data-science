@@ -16,6 +16,7 @@
     - [Misc Others](#misc-others)
 - **[Articles](#articles)**
     - [Forward and Backpropagation](#forward-and-backpropagation)
+    - [RNN](#rnn)
     - [Collection of Useful Resources](#collection-of-useful-resources)
     - [Quora](#quora)
     - [Misc](#misc)
@@ -124,6 +125,11 @@
 1. [yes-you-should-understand-backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.6ipdwn1is)
 2. [Neural Network in Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 3. [Step By Step Backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
+### RNN
+1. [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=iX5V1WpxxkY)
+2. [Christopher Olah on how LSTMs work](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+3. [RNN using TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
 
 
 ### Collection of Useful Resources
