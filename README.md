@@ -117,6 +117,7 @@
 2. [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 3. [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 4. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial/blob/master/README.md)
+5. [learning-deep-learning-my-top-five-resource](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/)
 
 ## Articles
 
