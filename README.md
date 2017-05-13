@@ -39,6 +39,7 @@
 12. [Udacity Nanodegree: AI](https://www.udacity.com/ai)
 13. [Udacity Nanodegree: Self Driving Car](https://www.udacity.com/drive)
 14. [EDX: Berkeley X-Series Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm#courses)
+15. [Oxford Deep NLP: 2017 SLides Only](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 
 ### Mathematics
@@ -87,6 +88,7 @@
 12. [Hvass-Labs: TensorFlow Tutorial Notebooks](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 13. [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 14. [data-scientists-to-follow-best-tutorials](https://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
+15. [Oxford Deep NLP: 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 ### Blogs
 1. [colah's blog](http://colah.github.io/)
