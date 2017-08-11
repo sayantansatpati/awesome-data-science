@@ -40,6 +40,7 @@
 13. [Udacity Nanodegree: Self Driving Car](https://www.udacity.com/drive)
 14. [EDX: Berkeley X-Series Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm#courses)
 15. [Oxford Deep NLP: 2017 SLides Only](https://github.com/oxford-cs-deepnlp-2017/lectures)
+16. [CNN for Visual Recognition: Stanford Spring 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&app=desktop)
 
 
 ### Mathematics
