@@ -29,7 +29,7 @@
 2. [Coursera: Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 3. [Caltech: Abu Mostafa](http://work.caltech.edu/telecourse.html)
 4. [Stanford: NLP cs224n](http://web.stanford.edu/class/cs224n/), [Coursera Videos](https://www.youtube.com/watch?v=nfoudtpBV68&index=1&list=PL6397E4B26D00A269)
-5. [Stanford: CNN cs231n](http://cs231n.github.io/), [Videos](https://archive.org/details/cs231n-CNNs)
+5. [Stanford: CNN cs231n](http://cs231n.github.io/), [Videos](https://archive.org/details/cs231n-CNNs), [Spring 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&app=desktop)
 6. [Stanford: MMDS](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 7. [Berkeley: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 8. [Stanford: Convex Optimization](http://online.stanford.edu/course/convex-optimization-winter-2014)
@@ -40,8 +40,6 @@
 13. [Udacity Nanodegree: Self Driving Car](https://www.udacity.com/drive)
 14. [EDX: Berkeley X-Series Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm#courses)
 15. [Oxford Deep NLP: 2017 SLides Only](https://github.com/oxford-cs-deepnlp-2017/lectures)
-16. [CNN for Visual Recognition: Stanford Spring 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&app=desktop)
-
 
 ### Mathematics
 
@@ -74,6 +72,9 @@
 7. [The-9-Deep-Learning-Papers-You-Need-To-Know-About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 8. [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
+### Collection of Resources
+1. [Arthur Chan's Top-5 DL](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/)
+
 ### GitHub
 1. [top-10-data-science-github](http://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
 2. [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
@@ -101,6 +102,7 @@
 7. [Edwin Chen's blog](http://blog.echen.me/)
 8. [Hunch](http://hunch.net/)
 9. [frequently-updated-machine-learning-blogs](http://bigdata-madesimple.com/frequently-updated-machine-learning-blogs/)
+10. [Arthur Chan's Blog](http://thegrandjanitor.com/)
 
 ### Online Books
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
@@ -137,7 +139,7 @@
 4. [Andrej Karpathy's Blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
-### Collection of Useful Resources
+### Useful Resources
 
 1. [Open Source Data Science Masters](http://datasciencemasters.org/)
 2. [analyticsvidhya: 21 Deep Learning Videos (2016)](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
