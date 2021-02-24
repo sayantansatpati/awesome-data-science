@@ -103,6 +103,7 @@
 8. [Hunch](http://hunch.net/)
 9. [frequently-updated-machine-learning-blogs](http://bigdata-madesimple.com/frequently-updated-machine-learning-blogs/)
 10. [Arthur Chan's Blog](http://thegrandjanitor.com/)
+11. [nbshare Data Science Blog](https://www.nbshare.io/notebooks/data-science/)
 
 ### Online Books
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
