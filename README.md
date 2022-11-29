@@ -162,16 +162,4 @@
 3. [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.rj930jywc)
 4. [Understanding-LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 5. [anyone-can-code-lstm](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
-
-
-
-
-
-
-
-
-
-
-
-
-
+6. [Explore Data Science](https://kandi.openweaver.com/explore/data-science)
